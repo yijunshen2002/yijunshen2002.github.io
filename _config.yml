@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yijun Shen (沈逸骏)"
 description              : "East China Normal University, Shanghai, China"
-repository               : "yijunshen2002/yijunshen2002.github.io"
+repository               : "yijunshens/yijunshens.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yijunshen2002" # e.g., "github username"
+  github           : "yijunshens" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
